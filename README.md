@@ -1,5 +1,3 @@
-# Python-Jupyter-Notebook-Extracting-and-Visualizing-Stock-Data
-
 <h1>Python Jupyter Notebook: Extracting and Visualizing Stock Data </h1>
 
 <h2>Description</h2>
