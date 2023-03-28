@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 Part of the IBM Data Analyst Professional Certificate program. This is a Lab where we go into depth of many of the techniques used in the field of data science and data analysis.<br/><br/>
-In this lab we use many distinct libraries that help us use DataFrames, call on data bases bases, plot graphs and much more.<br/><br/>
+In this lab we use many distinct libraries that help us use DataFrames, pull data from data bases, plot graphs and much more.<br/><br/>
 The questions that we answer are the following:<br/>
 
   - Question 1: Use yfinance to Extract Stock Data<br/>
